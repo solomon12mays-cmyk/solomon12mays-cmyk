@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> **ሰለሞን አለማየሁ**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"> **ሰለሞን አለማየሁ**
 
 </div>
 
