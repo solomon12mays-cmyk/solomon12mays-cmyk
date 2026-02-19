@@ -1,5 +1,4 @@
-# 👨‍💫 **SOLOMON ALEMAYEHU** {#150px}
-# **ሰለሞን አለማየሁ** {#150px}
+# 👨‍💫 **SOLOMON ALEMAYEHU**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Computer+Science+Student;Problem+Solver;Tech+Enthusiast" alt="Typing Animation" />
@@ -14,8 +13,7 @@
 
 ```javascript
 const solomon = {
-  name: "Solomon Alemayehu | ሰለሞን አለማየሁ",
-  size: "150px",
+  name: "Solomon Alemayehu",
   location: "Ethiopia 🇪🇹",
   education: "BSc Computer Science @ Debre Berhan University",
   currentFocus: "Building scalable full-stack applications",
@@ -82,8 +80,7 @@ const solomon = {
 
 <div align="center">
 
-## **SOLOMON ALEMAYEHU** {#150px}
-## **ሰለሞን አለማየሁ** {#150px}
+## **SOLOMON ALEMAYEHU**
 
 <br>
 
