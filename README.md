@@ -21,7 +21,8 @@ const solomon = {
   location: "Ethiopia 🇪🇹",
   education: "BSc Computer Science @ Debre Berhan University",
   currentFocus: "Building scalable full-stack applications",
-  github: "solomon12mays-cmyk"
+  github: "solomon12mays-cmyk",
+  projects: ["VIDEO_DOWNLOADER_APP2"]
 };
 ```
 
@@ -54,6 +55,37 @@ const solomon = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=solomon12mays-cmyk&theme=midnight-purple&hide_border=true" width="700"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🏆 **FEATURED PROJECT**
+
+### 📥 **VIDEO_DOWNLOADER_APP2**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/solomon12mays-cmyk/VIDEO_DOWNLOADER_APP2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=solomon12mays-cmyk&repo=VIDEO_DOWNLOADER_APP2&theme=midnight-purple&hide_border=true&show_owner=true" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=solomon12mays-cmyk&repo=VIDEO_DOWNLOADER_APP2&theme=midnight-purple&hide_border=true)](https://github.com/solomon12mays-cmyk/VIDEO_DOWNLOADER_APP2)
+  
+  <br>
+  
+  [![GitHub Repo stars](https://img.shields.io/github/stars/solomon12mays-cmyk/VIDEO_DOWNLOADER_APP2?style=social)](https://github.com/solomon12mays-cmyk/VIDEO_DOWNLOADER_APP2)
+  [![GitHub forks](https://img.shields.io/github/forks/solomon12mays-cmyk/VIDEO_DOWNLOADER_APP2?style=social)](https://github.com/solomon12mays-cmyk/VIDEO_DOWNLOADER_APP2)
+  
+  **Tech Stack:** `Python` `YouTube API` `Downloader` `GUI`
+  
+  **Description:** A powerful video downloader application that allows users to download videos from various platforms with ease.
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -97,6 +129,8 @@ const solomon = {
 <div align="center">
 
 ## **SOLOMON ALEMAYEHU**
+
+### 📥 **Check out my project: [VIDEO_DOWNLOADER_APP2](https://github.com/solomon12mays-cmyk/VIDEO_DOWNLOADER_APP2)**
 
 <br>
 
