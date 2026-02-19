@@ -1,8 +1,10 @@
-# 👨‍💫 **SOLOMON ALEMAYEHU**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> **SOLOMON ALEMAYEHU** {#150px}
+# **ሰለሞን አለማየሁ** {#150px}
 
 <div align="center">
   
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"> **ሰለሞን አለማየሁ**
+## **SOLOMON ALEMAYEHU**  
+## **ሰለሞን አለማየሁ**
 
 </div>
 
@@ -22,7 +24,11 @@
 const SOLOMON = {
   name: {
     english: "Solomon Alemayehu",
-    amharic: "ሰለሞን አለማየሁ"
+    amharic: "ሰለሞን አለማየሁ",
+    display: {
+      english: "150px",
+      amharic: "150px"
+    }
   },
   location: "Ethiopia 🇪🇹 | ኢትዮጵያ",
   education: "BSc Computer Science @ Debre Berhan University",
@@ -139,7 +145,10 @@ I'm a passionate Computer Science student with a drive for creating impactful di
 ```python
 class DAILY_ROUTINE:
     def __init__(self):
-        self.name = "ሰለሞን አለማየሁ | Solomon Alemayehu"
+        self.name = {
+            "english": "SOLOMON ALEMAYEHU (150px)",
+            "amharic": "ሰለሞን አለማየሁ (150px)"
+        }
         self.github = "solomon12mays-cmyk"
         self.morning = ["☕ Coffee", "📚 Study", "🐱 Check GitHub"]
         self.afternoon = ["💻 Code", "🔧 Build", "📊 Push commits"]
@@ -282,8 +291,8 @@ class DAILY_ROUTINE:
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="40"> **ሰለሞን አለማየሁ** 
-## **SOLOMON ALEMAYEHU**
+## <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="40"> **SOLOMON ALEMAYEHU** (150px)
+## **ሰለሞን አለማየሁ** (150px)
 
 <br />
 
