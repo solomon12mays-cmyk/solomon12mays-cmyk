@@ -1,20 +1,30 @@
-# 👨‍💻 **SOLOMON ALEMAYEHU**
+# 👨‍💫 **SOLOMON ALEMAYEHU**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Computer+Science+Student;Problem+Solver;Tech+Enthusiast" alt="Typing Animation" />
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=solomon12mays-cmyk&color=6A5ACD&style=flat-square&label=Profile+Views)](https://github.com/solomon12mays-cmyk)
-  [![GitHub Followers](https://img.shields.io/github/followers/solomon12mays-cmyk?style=social)](https://github.com/solomon12mays-cmyk?tab=followers)
-  [![GitHub Profile](https://img.shields.io/badge/GitHub-solomon12mays--cmyk-6A5ACD?style=flat-square&logo=github)](https://github.com/solomon12mays-cmyk)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> **ሰለሞን አለማየሁ**
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Computer+Science+Student;Problem+Solver;Tech+Enthusiast" alt="Typing Animation" />
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=solomon12mays-cmyk&color=6A5ACD&style=flat-square&label=Profile+Views&labelColor=2D2D2D)](https://github.com/solomon12mays-cmyk)
+  [![GitHub Followers](https://img.shields.io/github/followers/solomon12mays-cmyk?style=social&label=Followers&logoColor=6A5ACD)](https://github.com/solomon12mays-cmyk?tab=followers)
+  [![GitHub Profile](https://img.shields.io/badge/GitHub-solomon12mays--cmyk-6A5ACD?style=flat-square&logo=github&logoColor=white&labelColor=2D2D2D)](https://github.com/solomon12mays-cmyk)
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **ABOUT ME**
+# <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **ABOUT ME**
 
 ```typescript
 const SOLOMON = {
-  location: "Ethiopia 🇪🇹",
+  name: {
+    english: "Solomon Alemayehu",
+    amharic: "ሰለሞን አለማየሁ"
+  },
+  location: "Ethiopia 🇪🇹 | ኢትዮጵያ",
   education: "BSc Computer Science @ Debre Berhan University",
   currentFocus: "Building scalable full-stack applications",
   github: "solomon12mays-cmyk",
@@ -30,50 +40,50 @@ I'm a passionate Computer Science student with a drive for creating impactful di
 # 🛠️ **TECH ARSENAL**
 
 ### 💻 **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=2D2D2D)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2D2D2D)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=2D2D2D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=2D2D2D)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2D2D2D)
 
 ### 🌐 **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2D2D2D)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=2D2D2D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=2D2D2D)
 
 ### ⚙️ **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=2D2D2D)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=2D2D2D)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2D2D2D)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=2D2D2D)
 
 ### 🛠️ **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2D2D2D)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=2D2D2D)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=2D2D2D)
 
 ---
 
 # 📊 **GITHUB ANALYTICS**
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=solomon12mays-cmyk&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&card_width=400" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomon12mays-cmyk&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&card_width=400" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=solomon12mays-cmyk&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&card_width=400&title_color=6A5ACD&icon_color=6A5ACD&text_color=FFFFFF&bg_color=0D1117" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomon12mays-cmyk&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&card_width=400&title_color=6A5ACD&text_color=FFFFFF&bg_color=0D1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solomon12mays-cmyk&theme=midnight-purple&hide_border=true" alt="GitHub Streak" width="800"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solomon12mays-cmyk&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=6A5ACD&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6A5ACD&sideLabels=6A5ACD&dates=AAAAAA" alt="GitHub Streak" width="800"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=solomon12mays-cmyk&theme=midnight-purple&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=solomon12mays-cmyk&theme=midnight-purple&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
 
 # 📈 **CONTRIBUTION GRAPH**
 
-[![Solomon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=solomon12mays-cmyk&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Solomon's%20Contribution%20Graph&height=300)](https://github.com/solomon12mays-cmyk)
+[![Solomon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=solomon12mays-cmyk&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Solomon's%20Contribution%20Graph&height=300&color=6A5ACD&line=6A5ACD&point=FFFFFF&area_color=6A5ACD)](https://github.com/solomon12mays-cmyk)
 
 ---
 
@@ -85,15 +95,15 @@ I'm a passionate Computer Science student with a drive for creating impactful di
       <h2 align="center">📱 PROJECT ALPHA</h2>
       <p align="center">
         <a href="https://github.com/solomon12mays-cmyk">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=solomon12mays-cmyk&repo=solomon12mays-cmyk&theme=midnight-purple&hide_border=true&show_owner=true" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=solomon12mays-cmyk&repo=solomon12mays-cmyk&theme=midnight-purple&hide_border=true&show_owner=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=FFFFFF" width="100%" />
         </a>
         <br />
         <br />
         <a href="https://github.com/solomon12mays-cmyk">
-          <img src="https://img.shields.io/badge/📁_VIEW_CODE-6A5ACD?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/📁_VIEW_CODE-6A5ACD?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D" />
         </a>
         <a href="#">
-          <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+          <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2D2D2D" />
         </a>
       </p>
       <p align="center">
@@ -104,15 +114,15 @@ I'm a passionate Computer Science student with a drive for creating impactful di
       <h2 align="center">🌟 PROJECT BETA</h2>
       <p align="center">
         <a href="https://github.com/solomon12mays-cmyk">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=solomon12mays-cmyk&repo=solomon12mays-cmyk&theme=midnight-purple&hide_border=true&show_owner=true" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=solomon12mays-cmyk&repo=solomon12mays-cmyk&theme=midnight-purple&hide_border=true&show_owner=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=FFFFFF" width="100%" />
         </a>
         <br />
         <br />
         <a href="https://github.com/solomon12mays-cmyk">
-          <img src="https://img.shields.io/badge/📁_VIEW_CODE-6A5ACD?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/📁_VIEW_CODE-6A5ACD?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D" />
         </a>
         <a href="#">
-          <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+          <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2D2D2D" />
         </a>
       </p>
       <p align="center">
@@ -129,6 +139,7 @@ I'm a passionate Computer Science student with a drive for creating impactful di
 ```python
 class DAILY_ROUTINE:
     def __init__(self):
+        self.name = "ሰለሞን አለማየሁ | Solomon Alemayehu"
         self.github = "solomon12mays-cmyk"
         self.morning = ["☕ Coffee", "📚 Study", "🐱 Check GitHub"]
         self.afternoon = ["💻 Code", "🔧 Build", "📊 Push commits"]
@@ -136,7 +147,7 @@ class DAILY_ROUTINE:
         self.night = ["🚀 Deploy", "🎯 Plan tomorrow", "🌙 Late night coding"]
     
     def always(self):
-        return "Never stop learning! 🌱"
+        return "Never stop learning! 🌱 | መማርን ፈጽሞ አታቁም! 🌱"
     
     def github_stats(self):
         return f"Check out my work at: https://github.com/{self.github}"
@@ -164,34 +175,34 @@ class DAILY_ROUTINE:
     <tr>
       <td>
         <a href="https://github.com/solomon12mays-cmyk">
-          <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=6A5ACD&color=2D2D2D&fontSize=20" height="40"/>
+          <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D&color=6A5ACD" height="45"/>
         </a>
       </td>
       <td>
         <a href="https://linkedin.com/in/solomon-ale">
-          <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0055A4&color=0077B5" height="40"/>
+          <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D2D2D&color=0077B5" height="45"/>
         </a>
       </td>
       <td>
         <a href="https://twitter.com/solomon_ale">
-          <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0F8FCF&color=1DA1F2" height="40"/>
+          <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=2D2D2D&color=1DA1F2" height="45"/>
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="mailto:solomon.ale@example.com">
-          <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=AA2E2E&color=D14836" height="40"/>
+          <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D2D2D&color=D14836" height="45"/>
         </a>
       </td>
       <td>
         <a href="https://solomon.dev">
-          <img src="https://img.shields.io/badge/PORTFOLIO-6A5ACD?style=for-the-badge&logo=react&logoColor=white&labelColor=4A3A9C&color=6A5ACD" height="40"/>
+          <img src="https://img.shields.io/badge/PORTFOLIO-6A5ACD?style=for-the-badge&logo=react&logoColor=white&labelColor=2D2D2D&color=6A5ACD" height="45"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/solomon12mays-cmyk">
-          <img src="https://img.shields.io/badge/📁_REPOS-6A5ACD?style=for-the-badge&logoColor=white&labelColor=4A3A9C&color=6A5ACD" height="40"/>
+        <a href="https://github.com/solomon12mays-cmyk?tab=repositories">
+          <img src="https://img.shields.io/badge/📁_REPOS-6A5ACD?style=for-the-badge&logoColor=white&labelColor=2D2D2D&color=6A5ACD" height="45"/>
         </a>
       </td>
     </tr>
@@ -217,12 +228,12 @@ class DAILY_ROUTINE:
     <tr>
       <td>
         <a href="https://github.com/solomon12mays-cmyk">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=solomon12mays-cmyk&repo=solomon12mays-cmyk&theme=midnight-purple&hide_border=true&show_owner=true" width="400"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=solomon12mays-cmyk&repo=solomon12mays-cmyk&theme=midnight-purple&hide_border=true&show_owner=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=FFFFFF" width="400"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/solomon12mays-cmyk">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=solomon12mays-cmyk&repo=solomon12mays-cmyk&theme=midnight-purple&hide_border=true&show_owner=true" width="400"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=solomon12mays-cmyk&repo=solomon12mays-cmyk&theme=midnight-purple&hide_border=true&show_owner=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=FFFFFF" width="400"/>
         </a>
       </td>
     </tr>
@@ -271,14 +282,13 @@ class DAILY_ROUTINE:
 
 <div align="center">
 
-## 💡 **"THE ONLY WAY TO DO GREAT WORK IS TO LOVE WHAT YOU DO."** 
-### — *Steve Jobs*
+## <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="40"> **ሰለሞን አለማየሁ** 
+## **SOLOMON ALEMAYEHU**
 
 <br />
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.&author=Cory%20House" width="700" />
 
-<br />
 <br />
 
 ## 💬 **OPEN FOR COLLABORATIONS, PROJECTS, AND TECH DISCUSSIONS!**  
@@ -292,6 +302,8 @@ class DAILY_ROUTINE:
 
 <br />
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=150&section=footer&fontSize=30&fontColor=white&text=Thanks%20for%20visiting!%20🚀)
+### **THANKS FOR VISITING!** | **ጉብኝትህ እንኳን ደህና መጣህ!** 🚀
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=150&section=footer&fontSize=30&fontColor=white&text=መልካም%20ቀን!%20🚀)
 
 </div>
