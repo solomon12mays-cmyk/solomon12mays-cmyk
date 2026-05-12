@@ -11,9 +11,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-## 🚀 About Me
-
 const solomon = {
   name: "Solomon Alemayehu",
   location: "Ethiopia 🇪🇹",
@@ -24,21 +21,15 @@ const solomon = {
     "Exploring AI & Machine Learning solutions",
     "Developing modern full-stack projects"
   ],
-  technologies: [
-    "Laravel",
-    "React",
-    "Python",
-    "PHP",
-    "JavaScript",
-    "MySQL"
-  ],
+  technologies: {
+    backend: ["Laravel", "PHP", "Python"],
+    frontend: ["React", "JavaScript"],
+    database: ["MySQL"]
+  },
   github: "solomon12mays-cmyk",
-  projects: [
-    "VIDEO_DOWNLOADER_APP2"
-  ],
+  projects: ["VIDEO_DOWNLOADER_APP2"],
   motto: "Code. Learn. Build. Repeat. 🚀"
 };
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
