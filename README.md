@@ -15,7 +15,7 @@
 
 ## 🚀 **ABOUT ME**
 
-```javascript
+
 const solomon = {
   name: "Solomon Alemayehu",
   location: "Ethiopia 🇪🇹",
@@ -24,7 +24,7 @@ const solomon = {
   github: "solomon12mays-cmyk",
   projects: ["VIDEO_DOWNLOADER_APP2"]
 };
-```
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
