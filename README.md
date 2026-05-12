@@ -12,17 +12,31 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
-
-## 🚀 **ABOUT ME**
-
+## 🚀 About Me
 
 const solomon = {
   name: "Solomon Alemayehu",
   location: "Ethiopia 🇪🇹",
-  education: "BSc Computer Science @ Debre Berhan University",
-  currentFocus: "Building scalable full-stack applications",
+  education: "BSc in Computer Science @ Debre Berhan University",
+  role: "Full-Stack Developer | AI & ML Enthusiast",
+  currentFocus: [
+    "Building scalable web applications",
+    "Exploring AI & Machine Learning solutions",
+    "Developing modern full-stack projects"
+  ],
+  technologies: [
+    "Laravel",
+    "React",
+    "Python",
+    "PHP",
+    "JavaScript",
+    "MySQL"
+  ],
   github: "solomon12mays-cmyk",
-  projects: ["VIDEO_DOWNLOADER_APP2"]
+  projects: [
+    "VIDEO_DOWNLOADER_APP2"
+  ],
+  motto: "Code. Learn. Build. Repeat. 🚀"
 };
 
 
