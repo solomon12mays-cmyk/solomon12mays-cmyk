@@ -11,32 +11,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 About Me
 
-```javascript
+
+## 🚀 **ABOUT ME**
+
+
 const solomon = {
   name: "Solomon Alemayehu",
   location: "Ethiopia 🇪🇹",
-  education: "BSc in Computer Science @ Debre Berhan University",
-  role: "Full-Stack Developer | AI & ML Enthusiast",
-  currentFocus: [
-    "Building scalable web applications",
-    "Exploring AI & Machine Learning solutions",
-    "Developing modern full-stack projects"
-  ],
-  technologies: {
-    backend: ["Laravel", "PHP", "Python"],
-    frontend: ["React", "JavaScript"],
-    database: ["MySQL"]
-  },
+  education: "BSc Computer Science @ Debre Berhan University",
+  currentFocus: "Building scalable full-stack applications",
   github: "solomon12mays-cmyk",
-  projects: ["VIDEO_DOWNLOADER_APP2"],
-  motto: "Code. Learn. Build. Repeat. 🚀"
-};
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-```
----
+  projects: ["VIDEO_DOWNLOADER_APP2"]
+};EDIT IT SMARTLY
 
 ## 🛠️ **TECH STACK**
 
